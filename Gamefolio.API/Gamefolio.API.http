@@ -1,0 +1,6 @@
+@Gamefolio.API_HostAddress = http://localhost:5272
+
+GET {{Gamefolio.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
